@@ -22,19 +22,19 @@
 
 1. Soldar cables a los módulos.
 
-![alt text](Imagenes/img_10.jpg)
+![alt text](https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_10.jpg)
 
 2. Soldar el cable de comunicación con la Raspoberry a las placas
 
-![alt text](Imagenes/img_10.jpg)
+![alt text](https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_10.jpg)
 
 3. Pegar el vidrio y sellar toda la periferia del mismo
 
-![alt text](Imagenes/img_4.jpg)
+![alt text](https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_4.jpg)
 
 4. Agregar sellador de silicona a lo largo de toda la ranura de cierre del gabiente.
 
-![alt text](Imagenes/img_3.jpg)
+![alt text](https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_3.jpg)
 
 ### CONEXIÓN
 Conecte el cable armado a la Raspberry de forma de alimentar ambas placas (3.3V [PIN 1] y GND [PIN 6]) y luego conecte SCL [PIN 5] y SDA [PIN 3].
