@@ -22,27 +22,27 @@
 
 1. Soldar cables a los módulos.
 
-<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_10.jpeg" width="400" height="600">
+<p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_10.jpeg" width="400" height="600"> </p>
 
 2. Colocar las placas en el gabinete y soldar el cable de comunicación con la Raspoberry a las placas.
 
-<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_7.jpeg" width="400" height="600">
+<p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_7.jpeg" width="400" height="600"> </p>
 
 3. Sellar la periferia del sensor de HyT con silicona.
 
-<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_6.jpeg" width="400" height="500">
+<p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_6.jpeg" width="400" height="500"> </p>
 
 4. Pegar el vidrio y sellar toda la periferia del mismo.
 
-<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_4.jpeg" width="500" height="500">
+<p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_4.jpeg" width="500" height="500"> </p>
 
 5. Agregar sellador de silicona a lo largo de toda la ranura de cierre del gabiente.
 
-<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_3.jpeg" width="400" height="500">
+<p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_3.jpeg" width="400" height="500"> </p>
 
 6. Cerrar el gabinete y colcoar el tornillo de fijación.
 
-<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_2.jpeg" width="600" height="500">
+<p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_2.jpeg" width="600" height="500"> </p>
 
 ### CONEXIÓN
 Conecte el cable armado a la Raspberry de forma de alimentar ambas placas (3.3V [PIN 1] y GND [PIN 6]) y luego conecte SCL [PIN 5] y SDA [PIN 3].
