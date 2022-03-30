@@ -22,7 +22,7 @@
 
 1. Soldar cables a los módulos.
 
-![alt text](https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_10.jpeg)
+<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_10.jpeg" width="400" height="400">
 
 2. Colocar las placas en el gabinete y soldar el cable de comunicación con la Raspoberry a las placas
 
