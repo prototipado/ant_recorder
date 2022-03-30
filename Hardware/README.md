@@ -22,27 +22,27 @@
 
 1. Soldar cables a los módulos.
 
-<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_10.jpeg" width="400" height="400">
+<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_10.jpeg" width="400" height="600">
 
 2. Colocar las placas en el gabinete y soldar el cable de comunicación con la Raspoberry a las placas
 
-![alt text](https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_7.jpeg)
+<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_7.jpeg" width="400" height="600">
 
 3. Sellar la periferia del sensor de HyT con silicona
 
-![alt text](https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_6.jpeg)
+<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_6.jpeg" width="400" height="600">
 
 4. Pegar el vidrio y sellar toda la periferia del mismo
 
-![alt text](https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_4.jpeg)
+<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_4.jpeg" width="400" height="600">
 
 5. Agregar sellador de silicona a lo largo de toda la ranura de cierre del gabiente.
 
-![alt text](https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_3.jpeg)
+<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_3.jpeg" width="400" height="600">
 
 6. Cerrar el gabinete
 
-![alt text](https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_2.jpeg)
+<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_2.jpeg" width="400" height="600">
 
 ### CONEXIÓN
 Conecte el cable armado a la Raspberry de forma de alimentar ambas placas (3.3V [PIN 1] y GND [PIN 6]) y luego conecte SCL [PIN 5] y SDA [PIN 3].
