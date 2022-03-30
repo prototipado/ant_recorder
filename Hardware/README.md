@@ -34,7 +34,7 @@
 
 4. Pegar el vidrio y sellar toda la periferia del mismo
 
-<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_4.jpeg" width="400" height="600">
+<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_4.jpeg" width="500" height="500">
 
 5. Agregar sellador de silicona a lo largo de toda la ranura de cierre del gabiente.
 
@@ -42,7 +42,7 @@
 
 6. Cerrar el gabinete
 
-<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_2.jpeg" width="400" height="600">
+<img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_2.jpeg" width="500" height="500">
 
 ### CONEXIÓN
 Conecte el cable armado a la Raspberry de forma de alimentar ambas placas (3.3V [PIN 1] y GND [PIN 6]) y luego conecte SCL [PIN 5] y SDA [PIN 3].
