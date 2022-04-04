@@ -2,9 +2,9 @@
 
 ### MATERIALES
 
-- Tornillos autoroscantes M2.5 x10mm de largo: 4 para cerrar el gabinete, 2 para el montaje del sensor de luz.
-- Tornillos autoroscantes M1.5 x5mm de largo: 2 para fijar el sensor de humedad y temperatura.
-- Tornillo M4 o M5, de 20 a 25mm, con su tuerca, para el tornillo de fijación.
+- Tornillos autoroscantes M2.5 x10mm de largo (o similar): 4 para cerrar el gabinete, 2 para el montaje del sensor de luz.
+- Tornillos autoroscantes M1.5 x5mm de largo (o similar): 1 para fijar el sensor de humedad y temperatura.
+- Tornillo M4 o M5, de 20 a 25mm, con su tuerca, para el tornillo de fijación (o similar).
 - Ventana de vidrio de 15x15mm a 19x19mm.
 - Cable de 4 hilos.
 - Módulo sensor de luz Bh1750 (GY-302).
