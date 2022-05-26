@@ -42,16 +42,16 @@
 
 <p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_5.jpeg" > </p>
 
-6. Soldar cables al módulo sensor de HyT y colcarlo en su holder utilizanbdo el tornillo.
+6. Soldar cables al módulo sensor de HyT y colcarlo en su holder utilizando el tornillo.
 
 <p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_6.jpeg" > </p>
 
-7. Petar el vidrio con sellador de silicona sobre la apertura para el sesnor de luz.
+7. Pegar el vidrio con sellador de silicona sobre la apertura para el sensor de luz.
 
 <p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_10.jpeg"  </p>
 
 8. Atornillar las distintas partes para ensamblar el dispositivo. Tener en cuenta que las aperturas en los laterales de las piezas queden alineadas entre sí de manera de permitir el flujo de aire.
-El ensamble se raliza en el siguiente orden:
+El ensamble se realiza en el siguiente orden:
 - sunshield_dish_top (con ligth_sensor_holder)
 - ss_dish_interm
 - ss_dish_interm
@@ -64,7 +64,7 @@ El ensamble se raliza en el siguiente orden:
 
 <p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_8.jpeg"> </p>
 
-9. Soldar los cables de ambos sensores entre sí y a una sección de cable que le permita llegar hasta la Raspberry Pi.
+9. Soldar los cables de ambos sensores entre sí y a una sección de cable que le permita llegar hasta la Raspberry Pi. Recubrir la conección con termocontraible.
 
 <p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_7.jpeg" > </p>
 
