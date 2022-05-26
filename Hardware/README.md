@@ -52,12 +52,12 @@
 
 8. Atornillar las distintas partes para ensamblar el dispositivo. Tener en cuenta que las aperturas en los laterales de las piezas queden alineadas entre sí de manera de permitir el flujo de aire.
 El ensamble se raliza en el siguiente orden:
--sunshield_dish_top (con ligth_sensor_holder)
--ss_dish_interm
--ss_dish_interm
--ss_dish_interm
--HT_sensor_holder
--support
+- sunshield_dish_top (con ligth_sensor_holder)
+- ss_dish_interm
+- ss_dish_interm
+- ss_dish_interm
+- HT_sensor_holder
+- support
 
 
 
