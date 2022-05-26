@@ -42,15 +42,25 @@
 
 <p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_5.jpeg" > </p>
 
-6. Soldar cables al módulo sensor de HyT y fijarlo sobre su holder.
+6. Soldar cables al módulo sensor de HyT y colcarlo en su holder utilizanbdo el tornillo.
 
 <p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_6.jpeg" > </p>
 
-7. Pegtar el vidrio con sellador de silicona sobre la aperura para el sesnor de luz.
+7. Petar el vidrio con sellador de silicona sobre la apertura para el sesnor de luz.
 
 <p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_10.jpeg"  </p>
 
-8. Atornillar las distintas partes para ensamblar el dispositivo. Tener en cuenta que las aberturas en los laterales de las piezas queden alineadas entre sí de manera de permitri el flujo de aire.
+8. Atornillar las distintas partes para ensamblar el dispositivo. Tener en cuenta que las aperturas en los laterales de las piezas queden alineadas entre sí de manera de permitir el flujo de aire.
+El ensamble se raliza en el siguiente orden:
+-sunshield_dish_top (con ligth_sensor_holder)
+-ss_dish_interm
+-ss_dish_interm
+-ss_dish_interm
+-HT_sensor_holder
+-support
+
+
+
 
 <p align="center"> <img src="https://github.com/prototipado/ant_recorder/blob/main/Hardware/Imagenes/img_8.jpeg"> </p>
 
